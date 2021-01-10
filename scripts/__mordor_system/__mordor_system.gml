@@ -3,6 +3,11 @@ global.__mordor_procedural_quest_dict = {};
 global.__mordor_stage_dict            = {};
 global.__mordor_variable_dict         = {};
 
+__mordor_trace("Welcome to Mordor by @jujuadams! This is version " + __MORDOR_VERSION + ", " + __MORDOR_DATE);
+
+#macro __MORDOR_VERSION  "0.0.0"
+#macro __MORDOR_DATE     "2020-01-10"
+
 function __mordor_trace()
 {
     var _string = "";
