@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"mordor_write","path":"scripts/mordor_write/mordor_write.yy",},"order":4,},
+    {"id":{"name":"mordor_get_all_quest_names","path":"scripts/mordor_get_all_quest_names/mordor_get_all_quest_names.yy",},"order":10,},
     {"id":{"name":"mordor_delete_quest","path":"scripts/mordor_delete_quest/mordor_delete_quest.yy",},"order":4,},
     {"id":{"name":"__mordor_class_trigger","path":"scripts/__mordor_class_trigger/__mordor_class_trigger.yy",},"order":3,},
     {"id":{"name":"mordor_variable_add","path":"scripts/mordor_variable_add/mordor_variable_add.yy",},"order":2,},
