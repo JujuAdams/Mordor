@@ -5,8 +5,8 @@ global.__mordor_variable_dict         = {};
 
 __mordor_trace("Welcome to Mordor by @jujuadams! This is version " + __MORDOR_VERSION + ", " + __MORDOR_DATE);
 
-#macro __MORDOR_VERSION  "0.0.0"
-#macro __MORDOR_DATE     "2020-01-10"
+#macro __MORDOR_VERSION  "0.0.1"
+#macro __MORDOR_DATE     "2020-01-11"
 
 function __mordor_trace()
 {
